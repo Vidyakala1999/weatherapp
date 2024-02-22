@@ -1,0 +1,49 @@
+/* CityInput.css */
+.city-input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/originals/ce/99/f9/ce99f99bd558e1fbd91e364ca6566c60.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  
+  .input-card {
+    background-image: linear-gradient(180deg,#130754 0%,#3b2f80 100%);
+     color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
